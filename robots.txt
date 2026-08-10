@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: prilozheniya-kazino-bonusy.github.io
+Sitemap: https://prilozheniya-kazino-bonusy.github.io/sitemap.xml
